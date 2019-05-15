@@ -20,6 +20,7 @@ package io.elasticjob.lite.event.rdb;
 import com.google.common.base.Optional;
 import com.google.common.base.Predicate;
 import com.google.common.collect.Iterators;
+import org.checkerframework.checker.nullness.qual.Nullable;
 
 import java.util.Arrays;
 
